@@ -983,7 +983,7 @@ nav #nav-part2 h4:hover ::after {
     background-color: transparent;
     z-index: 100;
   }
-  #nav-part2 {
+  nav #nav-part2 {
     display: none;
   }
   nav img {
